@@ -5,7 +5,7 @@ Here 'subdiv' parameter controls the mesh quality.
 'verts_array' denotes the vertex coordinates. verts_array=[n,3], where n=number of vertex and 3 denotes x,y,z coordinates
 
 Here face is a triangle. 
-'face_index_data' is a kX3 matrix such as 
+'face_index_data' is a kX3 matrix such as   
 array([[ 0, 12, 14],  
        [11, 13, 12],  
              .  
