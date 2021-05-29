@@ -20,8 +20,8 @@ Vertices are plotted with red marker
 Each face is colored in blue(default).
 
 For each face, i.e. the triangle consists of three lines. For face in the above example, 
-Line_1=joining verts_array[0,:] to verts_array[12,:],\ 
-Line_2=joining verts_array[12,:] to verts_array[14,:],\ 
+Line_1=joining verts_array[0,:] to verts_array[12,:],   
+Line_2=joining verts_array[12,:] to verts_array[14,:],  
 Line_3=joining verts_array[14,:] to verts_array[0,:], 
 
 
