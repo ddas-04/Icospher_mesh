@@ -1,12 +1,13 @@
 ######################################################################
-#                                                           Instructions                                                         #
-#                                                                                                                                       #
-#    In the 'Main parameter to tune' section change subdiv to control mesh density.       #
-#    subdiv takes only integer value.                                                                                #
-#                                                                                                                                      #
-#    verts_array stores the cartesian coordinates.                                                            #
-#                                                                                                                                      #
-#####################################################################
+#                        Instructions                                #
+#                                                                    #
+#    In the 'Main parameter to tune' section change subdiv to        #
+#    control the mesh density.                                       #
+#    subdiv takes only integer value.                                #
+#                                                                    #
+#    verts_array stores the cartesian coordinates.                   #
+#                                                                    #
+######################################################################
 
 
 
