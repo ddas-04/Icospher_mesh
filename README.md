@@ -6,7 +6,8 @@ Here 'subdiv' parameter controls the mesh quality.
 
 Here face is a triangle. 
 'face_index_data' is a kX3 matrix such as   
-array([  [ 0, 12, 14],  
+array([  
+[ 0, 12, 14],  
        [11, 13, 12],  
              .  
              .  
